@@ -1,0 +1,70 @@
+/* XPATH */
+
+body {
+    font-family: calibri;
+    width: 100%;
+}
+
+.subtitle {
+    width: 100%;
+    font-size: 35px;
+    color: lightgray;
+    background-color: dodgerblue;
+}
+
+.styledlist {
+    list-style-type: square;
+}
+
+.borderbutton1 {
+    width: 18%;
+    text-align: left;
+    width: 18%;
+    border: groove;
+    border-color: aqua;
+}
+table, td, th {
+    border: 1px solid black;
+}
+
+th {
+    background-color: lightskyblue;
+    color: navy;
+}
+
+.page {
+    text-align: center;
+    font-size: 25px;
+}
+
+.center {
+    text-align: center;
+}
+
+.css {
+    text-align: center;
+    margin: 20%;
+    font-size: 35px;
+}
+
+.title {
+    font-size: 40px;
+    text-align: center;
+    margin: 15px;
+    font-family: impact;
+    color: purple;
+}
+
+.cssbutton {
+    margin-left: 22%;
+    margin-top: 1.25%;
+}
+
+.htmlbutton {
+    margin-left: 41.5%;
+    margin-top: 1.25%;
+}
+
+
+
+
